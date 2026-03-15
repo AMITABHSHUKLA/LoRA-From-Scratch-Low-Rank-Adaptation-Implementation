@@ -54,7 +54,9 @@ while preserving strong performance.
 
 ## Fine Tuning vs LoRA
 
-![LoRA Fine Tuning Comparison]([https://www.intel.com/content/dam/developer/articles/llm/fine-tuning-llama2-70b-and-lora-on-gaudi2/fine-tuning.png](https://www.intel.com/content/dam/developer/articles/llm/fine-tuning-llama2-70b-and-lora-on-gaudi2/fine-tuning.png))
+<p align="center">
+  <img src="images/fine-tuning.png" width="800">
+</p>
 
 Traditional fine-tuning updates every parameter in the model. This requires large GPU memory and significant computational resources.
 
