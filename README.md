@@ -54,7 +54,8 @@ while preserving strong performance.
 
 ## Fine Tuning vs LoRA
 
-![LoRA Fine Tuning Comparison](images/fine-tuning.png)
+![LoRA Comparison](Lora/fine-tuning.png)
+
 Traditional fine-tuning updates every parameter in the model. This requires large GPU memory and significant computational resources.
 
 LoRA changes this paradigm by
